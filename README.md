@@ -1,6 +1,6 @@
 
 
-<h1 align="center"> Hello, Myself Ayush <img src="https://media.tenor.com/DAzwk9MinX8AAAAC/ahtf.gif" style="height:75px;width:75px"></h1>
+<h1 align="center"> Hello, Myself Ayush <img src="https://media.tenor.com/dHk-LfzHrtwAAAAi/linux-computer.gif" style="height:75px;width:75px"></h1>
 <h3 align="center">I am an App Developer, UI&UX Designer, Python and Java programmer.</h3>
 <ul>
  <li> 👀 I’m interested in Designing, App development, and Machine learning </li>
