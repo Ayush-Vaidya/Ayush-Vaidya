@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center">Reach me out on <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/ayush-vaidya-2a1815209/">
+<a href="https://www.linkedin.com/in/ayush2408/">
  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sheetal05/"/>
 </a>
 <a href="mailto: vaidya2001ayush@gmail.com">
