@@ -26,7 +26,9 @@ You can click the Preview link to take a look at your changes.
  <img src="https://img.shields.io/badge/-twitter-purple?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/ayush___vaidya"/>
 </a>
 </p>
-
+<p align = "center">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Vaidya&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
+</p> 
 <h2 align="center">
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
@@ -46,13 +48,9 @@ You can click the Preview link to take a look at your changes.
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Vaidya&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Vaidya&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=Ayush-Vaidya&theme=redical">
-</p> 
+
+
 <hr>
 <img width="100px" align="center" src="https://komarev.com/ghpvc/?username=your-github-Ayush-Vaidya&style=flat-square&color=232323">
 
