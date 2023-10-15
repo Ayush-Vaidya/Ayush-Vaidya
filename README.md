@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
 <p align="center">
-  <img src="https://github.com/Ayush-Vaidya/Ayush-Vaidya/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/Ayush-Vaidya/Ayush-Vaidya/blob/output/github-contribution-grid-snake.gif" alt="snake"></center>
 
 </p>
 
